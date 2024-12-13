@@ -1,0 +1,13 @@
+/* Container.module.css */
+.Container {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  color:yellow;
+}
+
+.minHeight {
+  min-height: 75%;
+}
