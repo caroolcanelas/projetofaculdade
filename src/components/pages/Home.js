@@ -1,7 +1,7 @@
 import styles from './Home.module.css'
-import estudos from '../../src/img/estudos.svg'
+import estudos from '../../../src/img/estudos.svg'
 
-import LinkButton from '../components/layout/LinkButton'
+import LinkButton from '../../components/layout/LinkButton'
 
 function Home(){
 

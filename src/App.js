@@ -1,9 +1,9 @@
 import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom'
-import Home from './pages/Home'
-import Empresa from './pages/Empresa'
-import Contato from './pages/Contato'
-import NewProject from './pages/NewProject'
-import Projetos from './pages/Projetos'
+import Home from './components/pages/Home'
+import Empresa from './components/pages/Empresa'
+import Contato from './components/pages/Contato'
+import NewProject from './components/pages/NewProject'
+import Projetos from './components/pages/Projetos'
 
 
 import Container from './components/layout/Container'
