@@ -1,0 +1,51 @@
+{
+  "projetos": [
+    {
+      "id": "5d36",
+      "name": "Sistemas de Informação",
+      "horas": "4000",
+      "category": {
+        "id": "1",
+        "name": "Tecnologia"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4835",
+      "name": "Biblioteconomia",
+      "horas": "4000",
+      "category": {
+        "id": "2",
+        "name": "Humanas"
+      },
+      "cost": 1600,
+      "services": [
+        {
+          "name": "Fontes de Informação",
+          "cost": "800",
+          "description": "estudo de fontes de informação",
+          "id": "8a3f4c6c-0716-472a-b160-c4356e0c927a"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Tecnologia"
+    },
+    {
+      "id": "2",
+      "name": "Humanas"
+    },
+    {
+      "id": "3",
+      "name": "Exatas"
+    },
+    {
+      "id": "4",
+      "name": "Biologicas"
+    }
+  ]
+}
